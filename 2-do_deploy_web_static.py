@@ -67,8 +67,4 @@ def do_deploy(archive_path):
     except Exception:
         success = False
     return success
-Footer
-© 2023 GitHub, Inc.
-Footer navigation
 
-    Terms
