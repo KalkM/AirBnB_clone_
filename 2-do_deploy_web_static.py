@@ -8,7 +8,7 @@ from datetime import datetime
 from fabric.api import env, local, put, run, runs_once
 
 
-env.hosts = ['100.24.255.108', '100.26.120.225']
+env.hosts = ['35.168.8.65', '100.25.48.183']
 env.user = "ubuntu"
 env.key_filename = '~/.ssh/alx_server.pub'
 
